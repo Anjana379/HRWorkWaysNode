@@ -1,0 +1,42 @@
+{
+	"deptId" : 12,
+	"deptName" : "IT"
+	"deptManager": "Anil"
+}
+
+[
+      {
+      "usersso": 9987755342,
+      "username": "Sheeba",
+      "employeeid": 199899,
+      "location": "Chicago",
+      "backgroundflag": "Y"
+      }
+]
+[	
+	{
+	"srno":1,
+           
+	 "date":"2018-10-10",
+            
+	"name":"Shaheen",
+            
+	"contactname":"Anamika",
+           					
+	"contactemployeeid":"123443",
+            
+	"badgeno":"151",
+            	
+	"purpose":"personal",
+            
+	"intime":"13:05",
+            	
+	"personalitemin":"laptop",
+           
+ 	"outtime":"14:09",
+            	
+	"personalitemout":"laptop",
+           
+ 	"remarks":"nil"
+	}
+]

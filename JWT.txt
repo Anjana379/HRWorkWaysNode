@@ -1,0 +1,3 @@
+'secret': 'employeenoderestapi'
+x-access-token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.R7Um3OdOS6601qgn9TylIaxAa9MrAfAr0J4UZD4wSks

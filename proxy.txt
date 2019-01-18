@@ -1,0 +1,23 @@
+npm config set proxy http://proxy.inbcu.com:8080
+npm config set https-proxy http://proxy.inbcu.com:8080
+
+
+
+
+https://mycustomregistry\.example\.org
+
+
+
+
+registry=http://registry.npmjs.org/
+http_proxy=http://proxy.inbcu.com:8080/
+strict-ssl=false
+https-proxy=http://proxy.inbcu.com:8080/
+proxy=http://proxy.inbcu.com:8080/
+
+
+proxyout=http://proxy.inbcu.com:80
+http-proxy=http://proxy.inbcu.com:80
+http_proxy=http://proxy.inbcu.com:80
+https-proxy=http://proxy.inbcu.com:80/
+proxy=http://proxy.inbcu.com:80/ 
